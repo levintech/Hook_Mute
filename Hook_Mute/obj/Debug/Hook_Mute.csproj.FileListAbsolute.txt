@@ -1,0 +1,14 @@
+C:\Users\Ghost\source\repos\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.csprojAssemblyReference.cache
+C:\Users\Ghost\source\repos\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\Hook_Mute\Hook_Mute\bin\Debug\Hook_Mute.exe.config
+C:\Users\Ghost\source\repos\Hook_Mute\Hook_Mute\bin\Debug\Hook_Mute.exe
+C:\Users\Ghost\source\repos\Hook_Mute\Hook_Mute\bin\Debug\Hook_Mute.pdb
+C:\Users\Ghost\source\repos\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.exe
+C:\Users\Ghost\source\repos\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.pdb
+D:\Project\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.csprojAssemblyReference.cache
+D:\Project\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.csproj.CoreCompileInputs.cache
+D:\Project\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.exe
+D:\Project\Hook_Mute\Hook_Mute\obj\Debug\Hook_Mute.pdb
+D:\Project\Hook_Mute\Hook_Mute\bin\Debug\Hook_Mute.exe.config
+D:\Project\Hook_Mute\Hook_Mute\bin\Debug\Hook_Mute.exe
+D:\Project\Hook_Mute\Hook_Mute\bin\Debug\Hook_Mute.pdb
